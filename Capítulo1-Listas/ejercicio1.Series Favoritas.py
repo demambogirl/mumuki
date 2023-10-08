@@ -1,0 +1,2 @@
+series_favoritas_de_ana = ["Strappare lungo i bordi", "Bojack Horseman", "Attack on Titan"]
+series_favoritas_de_hector = ["Black Mirror", "Intimidad", "Recordando el Show de Alejandro Molina", "Gambito de Dama"]
