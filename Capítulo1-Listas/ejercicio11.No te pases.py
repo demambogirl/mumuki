@@ -3,3 +3,5 @@ meses_del_anio[0] # recordá que el primer elemento está en la posición 0
 "enero"
 ["ese", "perro", "tiene", "la", "cola", "peluda"][1]
 "perro"
+
+print(meses_del_anio[0])

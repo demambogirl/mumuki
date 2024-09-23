@@ -11,3 +11,5 @@ def operacion_misteriosa(elementos):
 # operacion_misteriosa inicializa una variable local cantidad en 0
 # operacion_misteriosa hace lo mismo que la función len
 # operacion_misteriosa no usa la variable elemento
+
+print(cantidad)

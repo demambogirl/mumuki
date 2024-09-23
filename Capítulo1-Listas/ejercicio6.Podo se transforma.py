@@ -1,4 +1,8 @@
 discos = ["Serú Girán", "Artaud", "Almendra", "Quebrado"]
-len(discos)
+var1 = len(discos)
 list.append(discos, "Vida")
-len(discos)
+var2 = len(discos)
+
+print(var1)
+print(discos)
+print(var2)

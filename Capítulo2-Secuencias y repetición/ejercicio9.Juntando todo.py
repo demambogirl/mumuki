@@ -5,3 +5,5 @@ def juntar(lista_de_cadenas):
         resultado += cadena  # Concatenamos cada cadena en la lista
     
     return resultado
+
+print(lista_de_cadenas)

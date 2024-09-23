@@ -16,3 +16,5 @@ def sin_extremos(lista):
   
 def extremos(lista):
     return [lista[0], lista[-1]]
+
+print(lista)

@@ -8,3 +8,10 @@ def juntar(separador, lista_de_cadenas):
             resultado += separador
     
     return resultado
+
+lista_de_cadenas = ["Hola", "qué", "tal"]
+separador = "-"
+
+# Llamando a la función y guardando el resultado
+resultado = juntar(separador, lista_de_cadenas)
+print(resultado)

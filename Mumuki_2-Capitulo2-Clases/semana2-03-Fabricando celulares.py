@@ -1,0 +1,1 @@
+celular_de_lu = Celular(50, 80)

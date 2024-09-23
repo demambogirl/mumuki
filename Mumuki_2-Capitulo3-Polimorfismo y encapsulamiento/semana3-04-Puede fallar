@@ -1,0 +1,7 @@
+animal.recibir_rehabilitacion()
+AttributeError: 'Caballo' object has no attribute 'recibir_rehabilitacion'
+  pelu.rehabilitar(norita)
+File "<input>", line 1, in <module>
+File "solucion0240507-9-h6p1j", line 10, in rehabilitar
+animal.recibir_rehabilitacion()
+AttributeError: 'Golondrina' object has no attribute 'recibir_rehabilitacion'

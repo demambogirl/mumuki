@@ -1,0 +1,1 @@
+celular_de_eli = Celular(70, 100, "Humanoid 10")
